@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[jjwines]]></title>
         <description><![CDATA[jjwines]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/jjwines/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 05 Jan 2016 00:08:22 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 05 Jan 2016 00:10:46 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/jjwines/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Vineyards | Joseph Jewell Wines]]></title>
-            <description><![CDATA[<article><h1>Vineyards | Joseph Jewell Wines</h1><p>To produce exceptional vineyard designated wines, we start with exceptional vineyards. The location of these vineyards plays a huge role in our selection process. We source fruit from independently owned properties in Sonoma and Humboldt counties, selecting sites with the most ideal soil and weather conditions for the varietal we intend to produce.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/10197b1bf2b729ea7f7e89e381afc8f77741734d.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Vineyards | Joseph Jewell Wines</h1><p>To produce exceptional vineyard designated wines, we start with exceptional vineyards. The location of these vineyards plays a huge role in our selection process. We source fruit from independently owned properties in Sonoma and Humboldt counties, selecting sites with the most ideal soil and weather conditions for the varietal we intend to produce.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cbfee1ec5c1893f93126c2a9c8980bbd27fecd7b.jpg"></article>]]></description>
             <link>http://josephjewell.com/vineyards/</link>
             <guid isPermaLink="false">2bac9f92-17d5-4ad3-877d-09ab898e8955</guid>
-            <pubDate>Tue, 05 Jan 2016 00:08:15 GMT</pubDate>
+            <pubDate>Tue, 05 Jan 2016 00:10:35 GMT</pubDate>
         </item>
     </channel>
 </rss>
