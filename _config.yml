@@ -1,6 +1,6 @@
 name: jjwines
 favicon: null
-layout_spectrum: 0.5952482558786869
+layout_spectrum: 0.43741
 typography_spectrum: 1
 cta:
   domain: null
@@ -22,7 +22,7 @@ color:
     - '#b3a98c'
     - '#777777'
   brandStrength: 0.5
-  lightness: 0.343812458217144
-  saturation: 0.6639263951219618
-  rhythmicContrast: 0.0005050939507782459
+  lightness: 0.8125
+  saturation: 1
+  rhythmicContrast: 1
 purpose: []
