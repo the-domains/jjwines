@@ -17,8 +17,8 @@ keywords:
   - planted
   - farmed
 description: 'To produce exceptional vineyard designated wines, we start with exceptional vineyards. The location of these vineyards plays a huge role in our selection process. We source fruit from independently owned properties in Sonoma and Humboldt counties, selecting sites with the most ideal soil and weather conditions for the varietal we intend to produce.'
-datePublished: '2016-01-05T00:08:15.060Z'
-dateModified: '2016-01-05T00:06:08.170Z'
+datePublished: '2016-01-05T00:10:35.823Z'
+dateModified: '2016-01-05T00:08:15.060Z'
 author: []
 related: []
 app_links: []
