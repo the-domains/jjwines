@@ -1,11 +1,10 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'http://www.wineandspiritsmagazine.com'
-  name: Wineandspiritsmagazine
-  favicon: null
-  domain: www.wineandspiritsmagazine.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'http://www.wineandspiritsmagazine.com/wine/wom-entry/30-best-of-california-for-california-wine-month-joseph-jewell#.ViGzm4V_KHQ.twitter'
+inLanguage: en
+starred: false
 keywords:
   - wines
   - pinot
@@ -18,17 +17,20 @@ keywords:
   - california
   - fruit
 description: 'Wines of the Month: California Wine Month Wines of the Month Top " Pinot Noir " California Wine Month " US " California " Sonoma " Joseph Jewell 2012 Russian River Valley Pinot Noir (Best Buy) Young winemakers Micah Joseph Wirth and Adrian Jewell Manspeaker started out in a garage in 2006 and have slowly expanded, making Russian River wines that tend to emphasize discretion rather than bombast.'
-inLanguage: en
+datePublished: '2016-01-05T20:46:55.288Z'
+dateModified: '2016-01-05T20:46:03.157Z'
+author: []
+related: []
 app_links: []
-isBasedOnUrl: 'http://www.wineandspiritsmagazine.com/wine/wom-entry/30-best-of-california-for-california-wine-month-joseph-jewell#.ViGzm4V_KHQ.twitter'
 title: 'Wine & Spirits Magazine | Wines of the Month: Pinot Noir: California Wine Month: US: California: Sonoma Joseph Jewell 2012 Russian River Valley Pinot Noir'
-datePublished: '2016-01-05T06:06:19.940Z'
-dateModified: '2016-01-05T06:04:18.296Z'
 sourcePath: _posts/2016-01-05-wine-and-spirits-magazine-or-wines-of-the-month-pinot-noir-ca.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Wineandspiritsmagazine
+  domain: www.wineandspiritsmagazine.com
+  url: 'http://www.wineandspiritsmagazine.com'
+  favicon: null
 _context: 'http://schema.org'
 _type: MediaObject
 
