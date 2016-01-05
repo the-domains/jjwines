@@ -4,7 +4,7 @@
         <description><![CDATA[jjwines]]></description>
         <link>https://thegrid.ai/jjwines/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 05 Jan 2016 06:07:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Jan 2016 06:07:14 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/jjwines/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[WINERIES TO WATCH ]]></title>
@@ -12,6 +12,13 @@
             <link>http://www.wineandspiritsmagazine.com/S=0/people/wtw-entry/joseph-jewell</link>
             <guid isPermaLink="false">9b95bf59-10e5-43e6-a439-e07e1a7247b1</guid>
             <pubDate>Tue, 05 Jan 2016 05:27:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>@FoodNetwork Joseph Jewell wines. You won't regret it.</p>]]></description>
+            <link>https://twitter.com/BurrowsJacob/status/114176979191865344</link>
+            <guid isPermaLink="false">0efdc110-c8b5-4630-b2b4-bc849fa69250</guid>
+            <pubDate>Tue, 05 Jan 2016 06:06:20 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Wine & Spirits Magazine | Wines of the Month: Pinot Noir: California Wine Month: US: California: Sonoma Joseph Jewell 2012 Russian River Valley Pinot Noir]]></title>
@@ -68,13 +75,6 @@
             <link>https://twitter.com/jjwines/status/629010279100125185</link>
             <guid isPermaLink="false">a5e25b74-8d02-402d-b272-61808240ecfc</guid>
             <pubDate>Tue, 05 Jan 2016 00:34:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img alt="Join us this weekend for our Grand Opening &num;SonomaChat &num;PinotNoir" src="https://pbs.twimg.com/media/CJP2W-IUAAAfERs.jpg:large">]]></description>
-            <link>https://twitter.com/jjwines/status/618108453706268672</link>
-            <guid isPermaLink="false">40ca75f6-7ed7-4af1-af0c-5287e568c695</guid>
-            <pubDate>Tue, 05 Jan 2016 00:10:35 GMT</pubDate>
         </item>
     </channel>
 </rss>
