@@ -4,11 +4,11 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'http://www.wineandspiritsmagazine.com/S=0/people/wtw-entry/joseph-jewell'
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: "WINERIES TO WATCH Wineries to Watch Top » Wineries to Watch » 2014 » Joseph Jewell    Sonoma’s Russian River Valley: Joseph Jewell by Luke Sykora \_\_\_luke_sykora"
-datePublished: '2016-01-05T05:27:35.902Z'
-dateModified: '2016-01-05T05:27:24.984Z'
+datePublished: '2016-01-06T04:10:39.543Z'
+dateModified: '2016-01-06T04:10:29.493Z'
 author: []
 title: "WINERIES TO WATCH\_"
 sourcePath: _posts/2016-01-05-wineries-to-watch-wineries-to-watch-top-wineries-to-watch.md
