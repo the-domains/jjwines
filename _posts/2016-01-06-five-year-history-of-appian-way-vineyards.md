@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-06T07:31:37.523Z'
-dateModified: '2016-01-06T07:31:30.551Z'
-title: FIVE YEAR HISTORY OF APPIAN WAY VINEYARDS
+datePublished: '2016-01-06T07:34:19.247Z'
+dateModified: '2016-01-06T07:34:13.054Z'
+title: Vintage Report
 author: []
 sourcePath: _posts/2016-01-06-five-year-history-of-appian-way-vineyards.md
 published: true
@@ -22,7 +22,7 @@ url: five-year-history-of-appian-way-vineyards/index.html
 _type: Article
 
 ---
-# FIVE YEAR HISTORY OF APPIAN WAY VINEYARDS
+# Vintage Report
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/33c7a64e-a88d-4a61-bf75-90a5026ad119.jpg)
 
 For our first annual Joseph Jewell monthly newsletter, Co-Founder and Co-Winemaker Adrian Manspeaker shares the history of Appian Way Vineyards and celebrates the release of the 2011 Appian Way Pinot Noir with a special 5-vintage vertical offering. Learn more about this special vineyard in Russian River Valley and the wines produced from it.
