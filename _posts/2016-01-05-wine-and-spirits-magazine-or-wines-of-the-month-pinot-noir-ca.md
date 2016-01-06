@@ -17,8 +17,8 @@ keywords:
   - california
   - fruit
 description: 'Wines of the Month: California Wine Month Wines of the Month Top " Pinot Noir " California Wine Month " US " California " Sonoma " Joseph Jewell 2012 Russian River Valley Pinot Noir (Best Buy) Young winemakers Micah Joseph Wirth and Adrian Jewell Manspeaker started out in a garage in 2006 and have slowly expanded, making Russian River wines that tend to emphasize discretion rather than bombast.'
-datePublished: '2016-01-06T05:23:41.298Z'
-dateModified: '2016-01-06T05:23:33.402Z'
+datePublished: '2016-01-06T05:23:58.392Z'
+dateModified: '2016-01-06T05:23:50.460Z'
 author: []
 related: []
 app_links: []
