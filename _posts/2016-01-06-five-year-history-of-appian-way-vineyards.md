@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-06T06:59:28.448Z'
-dateModified: '2016-01-06T06:59:23.662Z'
+datePublished: '2016-01-06T07:01:29.553Z'
+dateModified: '2016-01-06T07:01:22.268Z'
 title: FIVE YEAR HISTORY OF APPIAN WAY VINEYARDS
 author: []
 sourcePath: _posts/2016-01-06-five-year-history-of-appian-way-vineyards.md
