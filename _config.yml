@@ -2,6 +2,7 @@ name: jjwines
 favicon: null
 layout_spectrum: 0.10317
 typography_spectrum: 1
+style: the-composer
 collections:
   - index:
       path: /
