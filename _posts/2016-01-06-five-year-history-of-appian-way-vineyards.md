@@ -3,21 +3,23 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
 keywords: []
-description: ''
-datePublished: '2016-01-06T07:34:19.247Z'
-dateModified: '2016-01-06T07:34:13.054Z'
+description: "\_For our first annual Joseph Jewell monthly newsletter, Co-Founder and Co-Winemaker Adrian Manspeaker shares the history of Appian Way Vineyards  and celebrates the release of the 2011 Appian Way Pinot Noir with a special 5-vintage vertical offering. Learn more about this special vineyard in Russian River Valley and the wines produced from it.\n \nBack in August of 2007, Joseph Jewell was just getting off the ground and my partner Micah and I were on the hunt for quality Pinot Noir for our new venture. Pinot Noir was a hot commodity; it was extremely hard to find quality vineyards with fruit to spare. After exhausting all of our options, I turned to Craigslist. Craigslist!  Surprisingly, I found an ad for one ½ ton of Russian River Valley Pinot Noir, or about one barrel.\_"
+datePublished: '2016-07-31T12:32:04.341Z'
+dateModified: '2016-07-31T12:32:03.801Z'
 title: Vintage Report
-author: []
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-01-06-five-year-history-of-appian-way-vineyards.md
-published: true
 authors: []
 publisher:
-  name: null
+  name: ''
   domain: null
-  url: null
+  url: ''
   favicon: null
+via: {}
+starred: false
 url: five-year-history-of-appian-way-vineyards/index.html
 _type: Article
 
